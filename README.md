@@ -1,6 +1,6 @@
 ## Hello, I'm Cooper  👋
 
-I am currently a junior student-athlete at Princeton University studying computational and quantitative biology, performing research in the Akey and vonHoldt labs, as well as a member of the offensive line on the football team. My research interests lie in developing bioinformatic tools to perform all sorts of analyses!
+I am currently a junior student-athlete at Princeton University studying computational and quantitative biology, performing research in the Akey and vonHoldt labs, as well as competing as a member of the offensive line on the football team. My research interests lie in developing bioinformatic tools to perform all sorts of analyses!
 
 ## 🔭 I am currently working on...
 
