@@ -4,7 +4,7 @@ I am currently a junior student-athlete at Princeton University studying computa
 
 ## 🔭 I am currently working on...
 
-As of late I have been researching non-canonical tranlation and transcription in tumor cells.
+As of late I have been researching non-canonical tranlation and transcription in tumor cells and modelling algorithmic recombination using Lambda Calculus.
 
 <!--
 **cooperkoers/cooperkoers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
